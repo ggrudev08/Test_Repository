@@ -1,0 +1,14 @@
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\bin\Debug\net10.0\Tomfoolery.exe
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\bin\Debug\net10.0\Tomfoolery.deps.json
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\bin\Debug\net10.0\Tomfoolery.runtimeconfig.json
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\bin\Debug\net10.0\Tomfoolery.dll
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\bin\Debug\net10.0\Tomfoolery.pdb
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.AssemblyInfoInputs.cache
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.AssemblyInfo.cs
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.csproj.CoreCompileInputs.cache
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.dll
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\refint\Tomfoolery.dll
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.pdb
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\Tomfoolery.genruntimeconfig.cache
+C:\Users\ggrud\source\repos\Tomfoolery\Tomfoolery\obj\Debug\net10.0\ref\Tomfoolery.dll

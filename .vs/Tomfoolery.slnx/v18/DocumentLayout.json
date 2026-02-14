@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ggrud\\source\\repos\\Tomfoolery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C78FDD-D668-2DAC-85A0-BA7FC42B3D86}|Tomfoolery\\Tomfoolery.csproj|c:\\users\\ggrud\\source\\repos\\tomfoolery\\tomfoolery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C78FDD-D668-2DAC-85A0-BA7FC42B3D86}|Tomfoolery\\Tomfoolery.csproj|solutionrelative:tomfoolery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ggrud\\source\\repos\\Tomfoolery\\Tomfoolery\\Program.cs",
+              "RelativeDocumentMoniker": "Tomfoolery\\Program.cs",
+              "ToolTip": "C:\\Users\\ggrud\\source\\repos\\Tomfoolery\\Tomfoolery\\Program.cs",
+              "RelativeToolTip": "Tomfoolery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:44:09.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
